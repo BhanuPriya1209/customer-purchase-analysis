@@ -1,4 +1,4 @@
-# customer-purchase-analysis
+# Customer-Purchase-Analysis
 SQL project analyzing customer purchases using PostgreSQL
 
 # Project-Goal
